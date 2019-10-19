@@ -1,9 +1,13 @@
 .gradle
 build
+bin
 .idea
 *.iml
 *.ipr
 *.iws
+*.classpath
 .DS_Store
 .env
+.project
+.settings
 ci/variables.yml
